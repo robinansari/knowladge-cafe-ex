@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/dM444tB/1-img.jpg",
+      "title": " My Name is mahadi hasan kajol .Keep in mind, though, that you shouldn’t memorize your answer. Sure, it might seem like the safer option, but if you end up forgetting something on the interview, you might mess up your entire answer.",
+      "author": "Mahadi Hasan Kajol",
+      "author_img": "https://i.ibb.co/nbwH9Nh/samim.jpg",
+      "post_date": "may-14 (4 days ago)", 
+      "reading_time": 45,
+      "hashtags": ["#fiction", "#bestseller"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/mRj2JCk/2-img.jpg",
+      "title": "My name is Tamim, I’m 22 years old and I recently graduated from University X with a B.A. in international business. While there, I learned a lot of theory in subjects like corporate communication, international economics, corporate governance, and more. I was also part of the student government, and maintained a GPA of 3.6.",
+      "author": "Tamim Khan",
+      "author_img": "https://i.ibb.co/J3pPHGr/tamim.jpg",
+      "post_date": "may-14 (4 days ago)", 
+      "reading_time": 30,
+      "hashtags": ["#mystery", "#thriller"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/5XDRKSw/3-img.jpg",
+      "title": "My name is Hridoy Khan, I’m 22 years old and I recently graduated from University X with a B.A. in international business. While there, I learned a lot of theory in subjects like corporate communication, international economics, corporate governance, and more. I was also part of the student government, and maintained a GPA of 3.6.",
+      "author": "Hridoy Khan",
+      "author_img": "https://i.ibb.co/7GKtMNG/hridoy.jpg",
+      "post_date": "may-14 (4 days ago)", 
+      "reading_time": 25,
+      "hashtags": ["#sciencefiction", "#adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/nRYQfPH/4-img.jpg",
+      "title": "My name is Robiul Islam Robin, I’m 22 years old and I recently graduated from University X with a B.A. in international business. While there, I learned a lot of theory in subjects like corporate communication, international economics, corporate governance, and more. I was also part of the student government, and maintained a GPA of 3.6.",
+      "author": "Robiul Islam Robin",
+      "author_img": "https://i.ibb.co/yXX49yb/robin-j.jpg",
+      "post_date": "may-14 (4 days ago)", 
+      "reading_time":20,
+      "hashtags": ["#romance", "#love"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/2cGn98j/5-img.jpg",
+      "title": "My name is sultan mahmud piyas, I’m 22 years old and I recently graduated from University X with a B.A. in international business. While there, I learned a lot of theory in subjects like corporate communication, international economics, corporate governance, and more. I was also part of the student government, and maintained a GPA of 3.6.",
+      "author": "Sultan Mahmud Piyas",
+      "author_img": "https://i.ibb.co/JqYwTHS/piyas.jpg",
+      "post_date": "may-14 (4 days ago)", 
+      "reading_time": 35,
+      "hashtags": ["#fantasy", "#magic"]
+    }
+  ]
+  
